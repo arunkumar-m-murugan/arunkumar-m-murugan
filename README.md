@@ -57,7 +57,8 @@
 
 ## 📫 Contact Me
 - GitHub: https://github.com/arunkumar-m-murugan  
-- Email: arunkumarmurugan1434@gmail.com  
+- Email: arunkumarmurugan1434@gmail.com
+- LinkedIN: www.linkedin.com/in/arunkumar-m14
 
 ---
 
