@@ -48,7 +48,7 @@
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Learning
 - Advanced Machine Learning  
 - Deep Learning (CNN, ANN)  
 - Model deployment basics  
